@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MySnip/MySnip.vcxproj" Id="81ced7ea-174f-4a24-85c4-fb02b4f08f1a" />
+</Solution>
